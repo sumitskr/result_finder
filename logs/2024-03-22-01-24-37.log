@@ -1,0 +1,12 @@
+01:24:37.360 [main] INFO  demo.DriverOpen - Driver Opened
+01:24:37.366 [main] INFO  demo.DriverOpen - With headless : true
+01:24:40.487 [main] INFO  demo.DriverOpen - Candidate not forund for : 60826836
+01:24:40.737 [main] INFO  demo.DriverOpen - Current roll : 60826836
+01:24:41.098 [main] INFO  demo.DriverOpen - Candidate not forund for : 60826837
+01:24:41.240 [main] INFO  demo.DriverOpen - Current roll : 60826837
+01:24:41.389 [main] INFO  demo.DriverOpen - Candidate not forund for : 60826838
+01:24:41.529 [main] INFO  demo.DriverOpen - Current roll : 60826838
+01:24:41.671 [main] INFO  demo.DriverOpen - Candidate not forund for : 60826839
+01:24:41.804 [main] INFO  demo.DriverOpen - Current roll : 60826839
+01:24:42.094 [main] INFO  demo.DriverOpen - Candidate not forund for : 60826840
+01:24:42.238 [main] INFO  demo.DriverOpen - Current roll : 60826840
